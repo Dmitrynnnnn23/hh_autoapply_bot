@@ -1,6 +1,3 @@
-Отлично! Дополню README.md на основе рабочего кода:
-
-```markdown
 # HH AutoApply Bot 🤖
 
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/BotFather)
