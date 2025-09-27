@@ -128,7 +128,7 @@ curl --request POST \
 
 1. **Запустите бота:**
 ```bash
-python bot.py
+python main_bot.py
 ```
 
 2. **Найдите бота в Telegram** по имени
