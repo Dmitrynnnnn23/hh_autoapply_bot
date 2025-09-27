@@ -1,0 +1,6 @@
+aiogram
+httpx
+fastapi
+asyncio
+requests
+yandex_cloud_ml_sdk
